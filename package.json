@@ -2,7 +2,7 @@
   "name": "re-implement-layout",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rileych.github.io/remote-assignments/week-4/assignment-3/re-implement-layout",
+  "homepage": "https://github.com/RileyCH/re-implement-layout",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
