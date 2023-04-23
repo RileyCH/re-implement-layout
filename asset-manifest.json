@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/RileyCH/re-implement-layout/static/css/main.33ff5847.css",
-    "main.js": "/RileyCH/re-implement-layout/static/js/main.d519304e.js",
-    "index.html": "/RileyCH/re-implement-layout/index.html",
-    "main.33ff5847.css.map": "/RileyCH/re-implement-layout/static/css/main.33ff5847.css.map",
-    "main.d519304e.js.map": "/RileyCH/re-implement-layout/static/js/main.d519304e.js.map"
+    "main.css": "/re-implement-layout/static/css/main.33ff5847.css",
+    "main.js": "/re-implement-layout/static/js/main.48bd155a.js",
+    "index.html": "/re-implement-layout/index.html",
+    "main.33ff5847.css.map": "/re-implement-layout/static/css/main.33ff5847.css.map",
+    "main.48bd155a.js.map": "/re-implement-layout/static/js/main.48bd155a.js.map"
   },
   "entrypoints": [
     "static/css/main.33ff5847.css",
-    "static/js/main.d519304e.js"
+    "static/js/main.48bd155a.js"
   ]
 }
